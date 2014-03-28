@@ -1,0 +1,11 @@
+dalai-lauchpad-keyring (2014.03.14-2~unreleased) UNRELEASED; urgency=low
+
+  * Some clean-up in debian/ folder
+
+ -- Francois WILLAME <francois.willame@gmail.com>  Sat, 15 Mar 2014 00:11:39 +0100
+
+dalai-lauchpad-keyring (2014.03.14-1~unreleased) UNRELEASED; urgency=low
+
+  * Initial release
+
+ -- Francois WILLAME <francois.willame@gmail.com>  Fri, 14 Mar 2014 22:26:12 +0100

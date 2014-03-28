@@ -1,0 +1,15 @@
+Source: dalai-lauchpad-keyring
+Section: admin
+Priority: optional
+Maintainer: Francois WILLAME <francois.willame@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://launchpad.net/~dalai
+
+Package: dalai-lauchpad-keyring
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, gnupg
+Description: GnuPG archive keys of dalai's archives
+ The dalai project digitally signs its Release files. This package
+ contains the archive keys used for that.
+
